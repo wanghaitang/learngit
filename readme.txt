@@ -1,8 +1,8 @@
-This is a simple practise
-adag
-gas
-Git tracks changes of files
-
-
+This is a practise lib for learn git .
+my first remote push .
+1
+2
+3
+4.I want to modify the file to push to remote lib.
 
 
