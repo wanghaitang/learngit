@@ -5,4 +5,4 @@ my first remote push .
 3
 4.I want to modify the file to push to remote lib.
 
-
+Git has a mutable index called stage.
